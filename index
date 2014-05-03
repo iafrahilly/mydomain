@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ian Rahilly | Blog</title>
+    </head>
+    <body style="font-family: Helvetica">
+        <h2 style="text-align:center; font-family: Helvetica; font-size:100px">Ian Rahilly</h2>
+            <p>
+            From Toronto. A record of what's on my mind, what I'm reading, what I like, what I don't and everything in between. Currently an MBA candidate at Columbia Business School in New York. Class of 2015.
+            </p>
+            <p>
+            E-Mail: iafrahilly [at] gmail [dot] com
+            </p>
+            <p>
+            Twitter: [at] iafrahilly
+            </p>
+        <ol>
+            <li><a href="http://www.ianrahilly.com/quotes">Quotes</a></li>
+            <li><a href="http://www.ianrahilly.com/about">About</a></li>
+        </ol>
+    <table>
+	   <thead>
+	       <th style="text-align:center;" colspan="3">My Table</th>
+	   </thead>
+	       <tbody>
+	           <tr>
+	               <td></td>
+	               <td></td>
+	               <td></td>
+	           </tr>
+	           <tr>
+	               <td></td>
+	               <td></td>
+	               <td></td>
+	           </tr>
+	           <tr>
+	               <td></td>
+	               <td></td>
+	               <td></td>
+	           </tr>
+	       </tbody>
+	    </table>
+    </body>
+</html>
